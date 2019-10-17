@@ -1,24 +1,4 @@
-void setup()
-{
-	noLoop();
-}
-void draw()
-{
-	//your code here
-}
-void mousePressed()
-{
-	redraw();
-}
-class Die //models one single dice cube
-{
-	//variable declarations here
-	
-	Die(int x, int y) //constructor
-	{
-		//variable initializations here
-	}
-	void roll()int[] gridX = {18, 30, 42};
+void roll()int[] gridX = {18, 30, 42};
 int[] gridY = gridX;
 
 void setup()
