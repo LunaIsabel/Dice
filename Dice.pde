@@ -3,7 +3,7 @@ int[] gridY = gridX;
 
 void setup()
 { 
-  size(720, 900);
+  size(720, 910);
   noLoop();
   background(255, 255, 255);
 }
