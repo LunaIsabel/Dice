@@ -1,4 +1,4 @@
-void roll()int[] gridX = {18, 30, 42};
+int[] gridX = {18, 30, 42};
 int[] gridY = gridX;
 
 void setup()
